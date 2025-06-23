@@ -7,7 +7,7 @@ The approach evaluates both Recurrent Neural Networks (RNNs) and Long Short-Term
 The architecture is extended to a federated learning setup using the Flower library, enabling decentralized training across devices without transferring user data. 
 This strategy addresses challenges of user heterogeneity and enhances data privacy compared to centralized training. 
 The proposed approach was evaluated on the DAGHAR benchmark dataset.  
-[View pdf (ITA)](./2025%20-%20Master%20in%20Data%20Science%20and%20Statistical%20Learning/MD2SL_degree.pdf)
+[View pdf (ENG)](./2025%20-%20Master%20in%20Data%20Science%20and%20Statistical%20Learning/MD2SL_degree.pdf)
 
 ---
 ## 2008 - PhD in Computer Engineering, Multimedia and Telecommunications
@@ -24,5 +24,5 @@ This thesis develops algorithms for the automatic 3D reconstruction of Solids of
 Overcoming limitations of manual methods, the work focuses on automatic segmentation of key SOR features, i.e. apparent contour and ellipses, 
 by exploiting the planar homology that relates the two imaged sides of the SOR with respect to the axis of symmetry, and filtering distractors through curve analysis. 
 The goal is to autonomously estimate camera parameters and reconstruct the object's metric shape.  
-[View pdf (ENG)](./2004%20-%20Master%20Degree%20in%20Computer%20Engineering%20(5%20years)/Master_degree.pdf)
+[View pdf (ITA)](./2004%20-%20Master%20Degree%20in%20Computer%20Engineering%20(5%20years)/Master_degree.pdf)
  

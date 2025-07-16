@@ -25,4 +25,10 @@ Overcoming limitations of manual methods, the work focuses on automatic segmenta
 by exploiting the planar homology that relates the two imaged sides of the SOR with respect to the axis of symmetry, and filtering distractors through curve analysis. 
 The goal is to autonomously estimate camera parameters and reconstruct the object's metric shape.  
 [View pdf (ENG)](./2004%20-%20Master%20Degree%20in%20Computer%20Engineering%20(5%20years)/Master_degree.pdf)
- 
+
+--- 
+## License
+
+These documents are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to share and adapt the material for non-commercial purposes, with appropriate attribution.  
+For any commercial use, please contact the repository maintainer.

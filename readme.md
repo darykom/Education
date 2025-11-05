@@ -1,7 +1,7 @@
 # Education
 
 ---
-## 2025 - Master in Data Science and Statistical Learning (second level)
+## 2025 - Master in Data Science and Statistical Learning (postgraduate, second level)
 This work explores Human Activity Recognition (HAR) using inertial data from smartphone accelerometers and gyroscopes. 
 The approach evaluates both Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) models to encode motion sequences into embedding vectors, classified through a multilayer perceptron (MLP). 
 The architecture is extended to a federated learning setup using the Flower library, enabling decentralized training across devices without transferring user data. 

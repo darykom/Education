@@ -19,7 +19,7 @@ Eye tracking is performed by robustly fitting ellipses to iris contours, and gaz
 [View pdf (ENG)](./2008%20-%20PhD%20in%20Computer%20Engineering,%20Multimedia%20and%20Telecommunications/PhD_degree.pdf)
 
 ---
-## 2004 - Master Degree in Computer Engineering (5 years)
+## 2004 - Master's Degree in Computer Engineering (5 years)
 This thesis develops algorithms for the automatic 3D reconstruction of Solids of Revolution (SORs) from a single uncalibrated image. 
 Overcoming limitations of manual methods, the work focuses on automatic segmentation of key SOR features, i.e. apparent contour and ellipses, 
 by exploiting the planar homology that relates the two imaged sides of the SOR with respect to the axis of symmetry, and filtering distractors through curve analysis. 
